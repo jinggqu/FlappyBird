@@ -1,2 +1,2 @@
 # FlappyBird
-FlappyBird based on java
+FlappyBird by Sudri based on java
